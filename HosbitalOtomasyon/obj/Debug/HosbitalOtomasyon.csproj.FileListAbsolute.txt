@@ -1,0 +1,14 @@
+C:\Users\Şehmus\Desktop\MyTigrisTech\HosbitalOtomasyon\HosbitalOtomasyon\bin\Debug\HosbitalOtomasyon.exe.config
+C:\Users\Şehmus\Desktop\MyTigrisTech\HosbitalOtomasyon\HosbitalOtomasyon\bin\Debug\HosbitalOtomasyon.exe
+C:\Users\Şehmus\Desktop\MyTigrisTech\HosbitalOtomasyon\HosbitalOtomasyon\bin\Debug\HosbitalOtomasyon.pdb
+C:\Users\Şehmus\Desktop\MyTigrisTech\HosbitalOtomasyon\HosbitalOtomasyon\obj\Debug\HosbitalOtomasyon.csproj.AssemblyReference.cache
+C:\Users\Şehmus\Desktop\MyTigrisTech\HosbitalOtomasyon\HosbitalOtomasyon\obj\Debug\HosbitalOtomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şehmus\Desktop\MyTigrisTech\HosbitalOtomasyon\HosbitalOtomasyon\obj\Debug\HosbitalOtomasyon.frmanaform.resources
+C:\Users\Şehmus\Desktop\MyTigrisTech\HosbitalOtomasyon\HosbitalOtomasyon\obj\Debug\HosbitalOtomasyon.Properties.Resources.resources
+C:\Users\Şehmus\Desktop\MyTigrisTech\HosbitalOtomasyon\HosbitalOtomasyon\obj\Debug\HosbitalOtomasyon.csproj.GenerateResource.cache
+C:\Users\Şehmus\Desktop\MyTigrisTech\HosbitalOtomasyon\HosbitalOtomasyon\obj\Debug\HosbitalOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Şehmus\Desktop\MyTigrisTech\HosbitalOtomasyon\HosbitalOtomasyon\obj\Debug\HosbitalOtomasyon.exe
+C:\Users\Şehmus\Desktop\MyTigrisTech\HosbitalOtomasyon\HosbitalOtomasyon\obj\Debug\HosbitalOtomasyon.pdb
+C:\Users\Şehmus\Desktop\MyTigrisTech\HosbitalOtomasyon\HosbitalOtomasyon\obj\Debug\HosbitalOtomasyon.frmDoktorlarPaeli.resources
+C:\Users\Şehmus\Desktop\MyTigrisTech\HosbitalOtomasyon\HosbitalOtomasyon\obj\Debug\HosbitalOtomasyon.frmPersonePaneli.resources
+C:\Users\Şehmus\Desktop\MyTigrisTech\HosbitalOtomasyon\HosbitalOtomasyon\obj\Debug\HosbitalOtomasyon.frmHastalarPaneli.resources
