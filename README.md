@@ -11,7 +11,14 @@
 - 🧑‍🦽 **Hasta Paneli** – Hastaların kayıt altına alınması, düzenlenmesi ve takibi
 - 🗂️ **Katmanlı Mimari** – `Entity`, `DAL` ve `UI` katmanlarıyla düzenli yapı
 - 🛢️ **Veritabanı** – Microsoft SQL Server ile veri yönetimi
+## 🛠️ Kullanılan Teknolojiler
 
+| Teknoloji     | Açıklama                       |
+|--------------|--------------------------------|
+| 🎨 WinForms   | Masaüstü arayüz geliştirme     |
+| 🗄️ MSSQL      | Veritabanı sistemi             |
+| 📐 C#         | Uygulama programlama dili      |
+| 📦 ADO.NET    | Veritabanı işlemleri için      |
 
 
 
